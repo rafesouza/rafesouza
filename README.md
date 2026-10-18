@@ -1,31 +1,52 @@
-## 👋 Hello, I'm rafesouza!
+# Hi, I'm Rafael! 👋
 
-🧑‍💻 About Me
+### Software Engineering Student | Python | Databases | Exploring AI
 
-Since 1996, when I had my first experience with programming through DBASE (both programmed and interactive), technology has always been part of my journey. After that initial experience, I worked for many years in the commercial and technical areas of IT companies, gaining a broad and practical view of the industry.
+I'm a Software Engineering undergraduate currently based in Montpellier, France.
 
-Today, I am taking a new path by studying Software Engineering at university, aiming to deepen my knowledge and turn my passion for technology into practical and innovative solutions.
+My interest in programming began in 1996 with dBASE. Over the years, I've gained experience in customer-facing roles, technology-related environments, business operations, and entrepreneurship.
 
-🚀 Skills in Development
+Today, I'm building my technical foundation in software engineering, with a particular interest in **Artificial Intelligence, Databases, and Data Engineering**.
 
-🐍 Python 3 (my main language at the moment)
+### 🔧 Technical Skills & Learning
 
-☕ Basic knowledge of Java
+- **Python:** fundamentals and academic practice
+- **Databases:** relational database concepts and academic studies
+- **Java:** basic knowledge
+- **HTML:** introductory knowledge
+- **Software Engineering:** algorithms, data structures, requirements engineering, object-oriented programming, and software testing concepts
+- **AI:** academic foundations and AI-assisted development
 
-🌐 Introductory knowledge of HTML
+### 🎓 Education
 
-🌱 Always Learning
+**Software Engineering — Undergraduate Degree (In Progress)**
 
-My goal is to grow as a developer and explore new technologies, frameworks, and programming languages. I’m always looking for challenges that help me evolve and contribute to meaningful projects.
+Relevant coursework includes Applied Artificial Intelligence, Databases, Algorithms, Data Structures, and Software Development Methodologies.
 
-💡 What You'll Find Here
+Additional training:
+- Python Fundamental 1 — Federal Institute of Santa Catarina (IFSC)
+- E-commerce — Federal Institute of Rio Grande do Sul (IFRS)
 
-Projects and exercises related to my Software Engineering studies
+### 🚀 Projects
 
-Practice and experiments with Python, Java, and HTML
+**QueroDoar — Academic Project**
 
-My progress and evolution in the programming journey
+A concept for a digital platform connecting donors with charitable organizations, developed as part of my software engineering learning journey.
 
-📫 How to Reach Me
+🔗 https://github.com/rafesouza/querodoar
 
-[📧 rafael.afw@icloud.com][💼 https://www.linkedin.com/in/rafael-gomes-de-souza-311764239/]
+### 🎯 Career Goals
+
+I'm developing my skills toward a career in software development, databases, data engineering, and AI-powered applications.
+
+I'm interested in entry-level and junior remote opportunities where I can apply my current knowledge, learn from experienced professionals, and contribute to real-world projects.
+
+### 🌍 Languages
+
+- Portuguese — Native
+- French — Conversational
+- English — Basic conversational
+
+### 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/rafael-gomes-de-souza-311764239/)
